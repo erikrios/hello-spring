@@ -1,6 +1,6 @@
 package com.erikriosetiawan.hellospring;
 
-public class BinarySearch implements SortAlgorithm {
+public class QuickSortAlgorithm implements SortAlgorithm {
     @Override
     public int[] sort(int[] numbers) {
         // Do sorting logic
